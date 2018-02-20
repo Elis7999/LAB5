@@ -1,3 +1,3 @@
 # LAB5
 #Eliott Ishak
-#cool
+#Partner: Claire Martin
